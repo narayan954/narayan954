@@ -2,7 +2,7 @@
 #### I am pursuing my bachelor in cs
 ![I am pursuing my bachelor in cs](https://gifimage.net/wp-content/uploads/2017/10/cat-shitposting-gif-1.gif)
 
-I am interested in everything tech related but currently focused on machine learning 
+I am interested in everything tech related but currently focused on machine learning and a bit of competitive programming
 
 Languages: PYTHON / C /  HTML 
 
