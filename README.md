@@ -4,7 +4,7 @@
 
 I am interested in everything tech related but currently focused on machine learning 
 
-Machine Languages: PYTHON / C /  HTML 
+Languages: PYTHON / C /  HTML 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine learning and cp 
