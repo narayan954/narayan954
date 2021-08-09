@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Narayan
 #### I am pursuing my bachelor in cs
-![I am pursuing my bachelor in cs](https://gifimage.net/wp-content/uploads/2017/10/cat-shitposting-gif-1.gif)
+![I am pursuing my bachelor in cs](https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif)
 
 I am interested in everything tech related but currently focused on machine learning 
 
