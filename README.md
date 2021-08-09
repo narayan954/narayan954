@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Narayan
+#### I am pursuing my bachelor in cs
+![I am pursuing my bachelor in cs](https://gifimage.net/wp-content/uploads/2017/10/cat-shitposting-gif-1.gif)
 
-<!--
-**narayan954/narayan954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in everything tech related but currently focused on machine learning 
 
-Here are some ideas to get you started:
+Skills: PYTHON / C /  HTML 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
