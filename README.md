@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Narayan
+#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### My name is Narayan
 #### I am pursuing my bachelor in cs
 ![I am pursuing my bachelor in cs](https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif)
 
