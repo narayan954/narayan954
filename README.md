@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=narayan954&hide=contribs&show_icons=true&theme=merko">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954">
 I am Narayan Soni. I am a Second Year B.Tech CSE Student at Aktu. I am a python programmer and also a competitive programmer. I am currently trying my luck in the field of Machine Learning. : )<br/><br/><br/>
 
 ## Tools and Technologies I work with:
