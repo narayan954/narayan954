@@ -16,7 +16,7 @@ I am Narayan Soni. I am a Second Year B.Tech CSE Student at Aktu. I am a python 
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
 
-<br/><br/><br/>
+<br/>
 ## Connect with me:
 <a href="https://www.linkedin.com/in/narayan-soni-71839b1bb/"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 <a href="https://www.instagram.com/narayansoni_/"><img align="left" alt="Instagram" title="Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
