@@ -7,8 +7,8 @@ I am Narayan Soni. I am a Second Year B.Tech CSE Student at Aktu. I am a python 
 
 ## Tools and Technologies I work with:
 <img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan954&hide=tex,rebol,jupyter%20notebook&langs_count=10&layout=compact&theme=merko">
-<img align="right" src="https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif" width = 500px height = 200px>
-<br/><br/><br/><br/><br/><br/><br/>
+<img align="right" src="https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif" width = 350px height = 163px>
+
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"></code>
