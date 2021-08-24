@@ -3,7 +3,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am Narayan Soni. I am a Second Year B.Tech CSE Student at Aktu. I am a python programmer and also a competitive programmer. I am currently trying my luck in the field of Machine Learning. : )<br/><br/><br/>
+I am Narayan Soni, a Second Year B.Tech CSE Student at Niet affiliated to Aktu. I am a python programmer and also a competitive programmer. I am currently trying my luck in the field of Machine Learning. : )<br/><br/><br/>
 
 ## Tools and Technologies I work with:
 <img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan954&hide=tex,rebol,jupyter%20notebook&langs_count=10&layout=compact&theme=merko">
