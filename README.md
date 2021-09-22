@@ -3,9 +3,9 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=narayan954&theme=nightowl&hide_border=true&fire=DD2727">
 
 I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer as well as bit of a competitive programmer and I am currently trying my luck in the field of Machine Learning. : )
-<br/><br/><br/><br><br><br>
+<br/><br/><br/><br/><br/><br/>
 
-<h3 align="center">Tools and Technologies I work with: </h3> <hr>
+<h2 align="center">Tools and Technologies I work with: </h2>
 <img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan954&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true">
 <img align="right" src="https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif" width = 350px height = 163px>
 
@@ -19,7 +19,7 @@ I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer as well a
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
 
 <br/><br/>
-### Connect with me: <hr/>
+## Connect with me: 
 <a href="https://www.linkedin.com/in/narayan-soni-71839b1bb/"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 <a href="https://www.instagram.com/narayansoni_/"><img align="left" alt="Instagram" title="Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
 <a href="https://www.facebook.com/narayan.soni.9843"><img align="left" alt="Facebook" title="Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
