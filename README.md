@@ -20,13 +20,13 @@ I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer as well a
 
 <br/><br/>
 ## Connect with me: 
-<a href="https://www.linkedin.com/in/narayan-soni-71839b1bb/"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/narayan-soni/"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 <a href="https://www.instagram.com/narayansoni_/"><img align="left" alt="Instagram" title="Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
 <a href="https://www.facebook.com/narayan.soni.9843"><img align="left" alt="Facebook" title="Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
 [<img align="left" alt="Gmail ID" title="Mail to Gmail ID: narayansoni854@gmail.com" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>](mailto:narayansoni854@gmail.com)
 [<img align="left" alt="Outlook ID" title="Mail to Outlook ID: 0201cse113@niet.co.in" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732223.png"/>](mailto:0201cse113@niet.co.in)
-<br/>
+<br/><br/>
 <hr>
 <p align="center">
-  <img src="https://github.com/narayan954/narayan954/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/narayan954/narayan954/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
