@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=narayan954&theme=nightowl&hide_border=true&fire=DD2727">
 
-I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer and I am currently trying my luck in the field of Machine Learning and open source! : )
+I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer and currently trying my luck in the field of Machine Learning and open source! : )
 <br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">Tools and Technologies I work with: </h2>
