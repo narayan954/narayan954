@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Narayan Soni </h1>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=narayan954&theme=nightowl&hide_border=true&fire=DD2727">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=narayan954&theme=nightowl&show_icons=true">
+
 <h3 align="left">I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer and currently trying my luck in the field of Machine Learning and open source! : )</h3>
 <br><br><br>
 <h1 align="center">Tools and Technologies I work with: </h1>
