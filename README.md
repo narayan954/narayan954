@@ -1,29 +1,40 @@
-<h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Narayan Soni </h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=narayan954&theme=nightowl&show_icons=true">
+<pre>
+--------------------------------------------------------------------------------
+<b>Me         :</b>  Web Developer, Competetive Programmer, ML and Tech Enthusiast
+<b>Languages  :</b>  HTML, CSS, JavaScript, C++, Java and Python
+<b>Frameworks :</b>  <b>Jquery, Bootstrap and, Django</b>
+<b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Machine Learning, Open-Source Contribution
+<b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> B-Tech <b>(Computer Science & Engineering) (2024)</b>
+--------------------------------------------------------------------------------
 
-<h3 align="left">I am a B.Tech sophomore at Niet, affiliated to Aktu. I am a programmer and currently trying my luck in the field of Machine Learning and open source! : )</h3>
-<br><br><br>
-<h1 align="center">Tools and Technologies I work with: </h1>
-<img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan954&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true">
-<img align="right" src="https://i.pinimg.com/originals/cd/f3/0b/cdf30b78e8754b1499f2de9d5a63a8fb.gif" width = 350px height = 163px>
+<b>Let's get in touch</b>
+<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a>  <a href="https://narayan954.github.io">Portfolio</a>  <a href="mailto:narayansoni954@gmail.com">Email</a>
 
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/732/732190.png" title="CSS3"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
+<!-- <b>Featured Projects </b>
+<a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a> 
 
-<br/><br/><br>
-<h1 align ="center"> Connect with me: </h1>
-<a href="https://www.linkedin.com/in/narayan-soni/"><img align="left"alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
-<a href="https://www.instagram.com/narayansoni_/"><img align="left" alt="Instagram" title="Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
-<a href="https://www.facebook.com/narayan.soni.9843"><img align="left" alt="Facebook" title="Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
-<img alt="Gmail ID" title="Mail to Gmail ID: narayansoni854@gmail.com" align="left" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>
-<img alt="Outlook ID" title="Mail to Outlook ID: 0201cse113@niet.co.in" align="left" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732223.png"/>
-<br>
+<b>Additional:</b>
+<a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>  <a href="https://narayan954.github.io/Learn_CODE/">Learn_CODE<a> -->
+</pre>
+
+<!-- <p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/narayan954/count.svg" />
+</p> -->
 <p align="center">
-  <img src="https://github.com/narayan954/narayan954/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/rosekamallove/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+<details closed>
+ <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=narayan954&show_icons=true&line_height=27&theme=onedark" align="center">
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&theme=onedark" alt="mostlypanda" /> -->
+</p>
+
+<!-- ![Narayan Soni's github activity graph](https://activity-graph.herokuapp.com/graph?username=narayan954&theme=onedark) -->
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" /> <a href="https://twitter.com/narayan854"> </a>
+</p>
+</details>
+
+<!-- ![Waves](./assets/bottom-header.svg) -->
