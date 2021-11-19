@@ -1,11 +1,11 @@
 <pre>
 --------------------------------------------------------------------------------
 <b>Me         :</b>  Narayan Soni
-<b>About      :</b>  Competitive Programmer, Web Developer, ML and Tech Enthusiast
+<b>About      :</b>  Competitive Programmer(Maybe), Web Developer, ML and Open Source Enthuse
 <b>Languages  :</b>  HTML, CSS, JavaScript, Java and Python
-<b>Frameworks :</b>  <b>Jquery, Bootstrap and, Django</b>
+<b>Frameworks :</b>  <b>Jquery, Bootstrap, Beautiful Soup and, Django</b>
 <b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Machine Learning, Open-Source Contribution
-<b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> B-Tech <b>(Computer Science & Engineering) (2024)</b>
+<b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> B.Tech <b>(Computer Science and Engineering) (2024)</b>
 --------------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
