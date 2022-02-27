@@ -15,7 +15,7 @@
 <a href="https://narayan954.github.io/robofriends/">RoboFriends<a> <a href="https://narayan954.github.io/Background-generator/">Background-generator<a> 
 
 <b>Additional:</b>
-<a href="https://narayansoni.netlify.app/">Porfolio-MLH<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>
+<a href="https://narayansoni.netlify.app/">Porfolio<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>
 </pre>
 
 <p align="center">
