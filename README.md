@@ -3,7 +3,7 @@
 <b>Me         :</b>  Narayan Soni
 <b>About      :</b>  Programmer, Web Developer, ML and Open Source Enthusiast
 <b>Languages  :</b>  Java, Python, HTML, CSS , Javascript, SQL
-<b>Frameworks :</b>  Jquery,React,Node,Express, Bootstrap, Beautiful Soup and, Django
+<b>Frameworks :</b>  Jquery, React, Node, Express, Bootstrap, Beautiful Soup and, Django
 <b>Interests  :</b>  Web-Development(MERN Stack), Machine Learning, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 --------------------------------------------------------------------------------
@@ -13,14 +13,11 @@
 
 <b>Featured Projects </b>
 <a href="https://narayan954.github.io/robofriends/">RoboFriends<a> <a href="https://narayan954.github.io/Background-generator/">Background-generator<a> 
-<!--<b>Additional:</b>
-<a href="https://narayansoni.netlify.app/">Porfolio-MLH<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>  <a href="https://narayan954.github.io/Learn_CODE/">Learn_CODE<a> -->
+
+<b>Additional:</b>
+<a href="https://narayansoni.netlify.app/">Porfolio-MLH<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>
 </pre>
 
-<!--<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/narayan954/count.svg" />
-</p>-->
 <p align="center">
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
