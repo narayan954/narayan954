@@ -1,6 +1,6 @@
 <pre>
 --------------------------------------------------------------------------------
-<b>Me         :</b>  Narayan Soni
+<b>Me         :</b>  <b>Narayan Soni</b>
 <b>About      :</b>  Programmer, Web Developer, ML and Open Source Enthusiast
 <b>Languages  :</b>  Java, Python, HTML, CSS , Javascript, SQL
 <b>Frameworks :</b>  Jquery, React, Node, Express, Bootstrap, Beautiful Soup and, Django
