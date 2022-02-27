@@ -22,15 +22,18 @@
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 <details closed>
+
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narayan954&show_icons=true&theme=onedark" alt="narayansoni" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&theme=onedark" alt="narayansoni" />
 </p>
 
-![Narayan Soni's github activity graph](https://activity-graph.herokuapp.com/graph?username=narayan954&theme=onedark)
+![Github Activity Graph](https://shielded-anchorage-29152.herokuapp.com//graph?username=narayan954&theme=react-dark)
+
 <p align="center"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/narayan954/count.svg" />
