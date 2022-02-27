@@ -28,9 +28,9 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayan954&show_icons=true&theme=onedark" alt="narayansoni" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&theme=onedark" alt="narayansoni" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narayan954&show_icons=true&theme=onedark" alt="narayansoni" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&theme=onedark" alt="narayansoni" />
 </p>
 
 ![Narayan Soni's github activity graph](https://activity-graph.herokuapp.com/graph?username=narayan954&theme=onedark)
