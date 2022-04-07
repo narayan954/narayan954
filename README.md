@@ -14,7 +14,7 @@
 <b>Featured Projects </b>
 <a href="https://narayan954.github.io/robofriends/">RoboFriends<a> <a href="https://narayan954.github.io/Background-generator/">Background-generator<a> 
 
-<b>Additional:</b>
+<b>Additionals:</b>
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">narayan954.github.io<a>
 </pre>
 
