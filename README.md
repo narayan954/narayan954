@@ -2,9 +2,9 @@
 --------------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
 <b>About      :</b>  Programmer, Web Developer, ML and Open Source Enthusiast
-<b>Languages  :</b>  Java, Python, HTML, CSS , Javascript, SQL
-<b>Frameworks :</b>  Jquery, React, Node, Express, Bootstrap, Beautiful Soup and, Django
-<b>Interests  :</b>  Web-Development(MERN Stack), Machine Learning, Cloud Computing, Open-Source Contribution
+<b>Languages  :</b>  Python, C++, Java, HTML, CSS , Javascript, SQL
+<b>Frameworks :</b>  Jquery, React, Node, Express, Bootstrap and Django(familiar)
+<b>Interests  :</b>  Web-Development(Full Stack), Machine Learning, Cloud Computing, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 --------------------------------------------------------------------------------
 
