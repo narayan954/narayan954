@@ -21,17 +21,23 @@
 <p align="center">
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+<p align="center">Nothing much, just a snake eating up my contributions graph</p>
 <details closed>
 
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayan954&show_icons=true&theme=onedark" alt="narayansoni" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&theme=onedark" alt="narayansoni" />
-</p>
-
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
+    </a>
+ </div>
+</details>
+<!--
 ![Github Activity Graph](https://shielded-anchorage-29152.herokuapp.com//graph?username=narayan954&theme=react-dark)
 
 <p align="center"> 
@@ -39,6 +45,5 @@
   <img src="https://profile-counter.glitch.me/narayan954/count.svg" />
 </p>
 
-</details>
-
-<!--![Waves](./assets/bottom-header.svg)-->
+![Waves](./assets/bottom-header.svg)
+-->
