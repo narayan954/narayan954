@@ -24,6 +24,8 @@
 <p align="center">Nothing much, just a snake eating up my contributions graph</p>
 <details closed>
 
+![Metrics](https://metrics.lecoq.io/narayan954?template=classic&base.header=0&gists=1&lines=1)
+
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
 </p>
@@ -35,7 +37,8 @@
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
     </a>
- </div>
+</div>
+
 </details>
 <!--
 ![Github Activity Graph](https://shielded-anchorage-29152.herokuapp.com//graph?username=narayan954&theme=react-dark)
