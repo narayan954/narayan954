@@ -24,7 +24,9 @@
 <p align="center">Nothing much, just a snake eating up my contributions graph</p>
 <details closed>
 
-![Metrics](https://metrics.lecoq.io/narayan954?template=classic&base.header=0&gists=1&lines=1)
+<p align="center">
+  <img src="https://github.com/narayan954/narayan954/blob/main/github-metrics.svg" alt="metrics">
+</p>
 
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
