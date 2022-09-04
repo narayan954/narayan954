@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/narayan954/narayan954/blob/main/gitartwork.svg" alt="gitartwork">
-</p>
+</p> -->
 <pre>
 --------------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
