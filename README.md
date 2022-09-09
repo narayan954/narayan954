@@ -27,10 +27,10 @@
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="50%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
     </a>
 </div>
 
