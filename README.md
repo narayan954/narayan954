@@ -21,7 +21,7 @@
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
 </pre>
 
-<div>
+<div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
