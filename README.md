@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=narayan954" alt="Visitors count" />
+<img src="https://visitcount.itsvg.in/api?id=narayan954&label=Profile%20Views&pretty=true" alt="Visitors count" />
 </p>
 
 <details closed>
