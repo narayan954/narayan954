@@ -53,7 +53,7 @@
 
 <p align="center"> 
   Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/narayan954/count.svg" />
+  <img src="https://visitcount.itsvg.in/api?id=narayan954&label=Profile%20Views&pretty=true" />
 </p>
 
 ![Waves](./assets/bottom-header.svg)
