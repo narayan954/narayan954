@@ -1,3 +1,6 @@
+<!--<p align="center">
+  <img src="https://github.com/narayan954/narayan954/blob/main/gitartwork.svg" alt="gitartwork">
+</p> -->
 <pre>
 --------------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
@@ -12,27 +15,13 @@
 <a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> <a href="https://linktr.ee/narayan_soni">Linktree</a> <a href="mailto:narayansoni954@gmail.com">Email</a>
 
 <b>Featured Projects </b>
-<a href="http://doctor-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://smart-brain-420.herokuapp.com/">SmartBrain<a> <a href="https://narayan954.github.io/robofriends/">RoboFriends<a> 
+<a href="http://doctor-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://smart-brain-420.herokuapp.com/">SmartBrain<a> <a href="https://narayan954.github.io/robofriends/">RoboFriends<a> <a href="https://dummy-gram.web.app/">DummyGram<a>
 
 <b>Additionals:</b>
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
 </pre>
 
-<p align="center">
-  <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<p align="center">Nothing much, just a snake eating up my contributions graph</p>
-<details closed>
-
-<p align="center">
-  <img src="https://github.com/narayan954/narayan954/blob/main/github-metrics.svg" alt="metrics">
-</p>
-
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" />
-</p>
-
-<div>
+<div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
@@ -40,6 +29,23 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
     </a>
 </div>
+
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=narayan954" alt="Visitors count" />
+</p>
+
+<details closed>
+
+<p align="center">
+  <img src="https://github.com/narayan954/narayan954/blob/main/github-metrics.svg" alt="metrics">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<p align="center">Nothing much, just a snake eating up my contributions graph</p>
 
 </details>
 <!--
