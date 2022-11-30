@@ -12,7 +12,7 @@
 --------------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
-<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> <a href="https://linktr.ee/narayan_soni">Linktree</a> <a href="mailto:narayansoni954@gmail.com">Email</a>
+<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> <a href="https://linktr.ee/narayan_soni">Linktree</a> <a href="mailto:narayansoniwork@gmail.com">Email</a>
 
 <b>Featured Projects </b>
 <a href="http://doctor-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://smart-brain-420.herokuapp.com/">SmartBrain<a> <a href="https://dummy-gram.web.app/">DummyGram<a>
