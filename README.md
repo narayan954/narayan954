@@ -19,7 +19,7 @@
 
 <b>Additionals:</b>
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
-<!-- </pre> -->
+</pre>
 
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
