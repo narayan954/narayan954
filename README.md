@@ -4,10 +4,10 @@
 <pre>
 --------------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
-<b>About      :</b>  Programmer, Web Developer, ML and Open Source Enthusiast
-<b>Languages  :</b>  Python, C++, Java, HTML, CSS , Javascript, SQL
-<b>Frameworks :</b>  Jquery, React, Node, Express, Bootstrap and Django(familiar)
-<b>Interests  :</b>  Web-Development(Full Stack), Machine Learning, Cloud Computing, Open-Source Contribution
+<b>About      :</b>  Programmer, Web Developer and Open Source Enthusiast
+<b>Languages  :</b>  Python, C++, HTML, CSS , Javascript, SQL
+<b>Frameworks :</b>  React, Node, Express, Bootstrap, Mongoose and Django(familiar)
+<b>Interests  :</b>  Web-Development(Full Stack), Machine Learning and Cyber Security.
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 --------------------------------------------------------------------------------
 
