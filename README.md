@@ -21,16 +21,17 @@
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
 </pre>
 
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-    </a><a href="https://github-readme-streak-stats.herokuapp.com">
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-</div>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true"/>
+    </a>
+</p>
 
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=narayan954" alt="Visitors count" />
+  <img src="https://komarev.com/ghpvc/?username=narayan954" alt="Visitors count" />
 </p>
 
 <details closed>
