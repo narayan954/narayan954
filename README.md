@@ -31,9 +31,9 @@
 </p> -->
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true&card_width=300" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=narayan954&theme=shades-of-purple&custom_title=My+Stats&hide_border=true" />
 </a><a href="https://github-readme-streak-stats.herokuapp.com">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&theme=shades-of-purple&hide_border=true&card_width=300" />
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan954&count_private=true&include_all_commits=true&theme=shades-of-purple&hide_border=true" />
 </a>
 </p>
 
