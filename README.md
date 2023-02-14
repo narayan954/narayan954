@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> <a href="https://linktr.ee/narayan_soni">Linktree</a> <a href="mailto:narayansoniwork@gmail.com">Email</a>
 
 <b>Featured Projects </b>
-<a href="http://dr-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://narayan954.github.io/smartbrain-frontend">SmartBrain<a> <a href="https://dummy-gram.web.app/">DummyGram<a>
+<a href="http://dr-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://smartbrain-facedetection.web.app/">SmartBrain<a> <a href="https://narayan954.github.io/dummygram/">DummyGram<a>
 
 <b>Additionals:</b>
 <a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
