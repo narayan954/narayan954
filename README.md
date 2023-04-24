@@ -12,13 +12,13 @@
 -----------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
-<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> <a href="https://linktr.ee/narayan_soni">Linktree</a> <a href="mailto:narayansoniwork@gmail.com">Email</a>
+<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> . <a href="https://linktr.ee/narayan_soni">Linktree</a> . <a href="mailto:narayansoniwork@gmail.com">Email</a>
 
 <b>Featured Projects </b>
-<a href="http://dr-on-demand.vercel.app/">Doctor-On-Demand<a> <a href="https://smartbrain-facedetection.web.app/">SmartBrain<a> <a href="https://narayan954.github.io/dummygram/">DummyGram<a> <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> <a href="https://dupinator-3000.web.app/">Dupinator</a>
+<a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
 
 <b>Additionals:</b>
-<a href="https://narayansoni.netlify.app/">Portfolio!<a>  <a href="https://narayan954.github.io">Github-page<a>
+<a href="https://narayansoni.netlify.app/">Portfolio 1<a> . <a href="https://narayan-soni.web.app/">Portfolio 2<a> . <a href="https://narayan954.github.io">Github-Pages-Portfolio<a>
 </pre>
 <!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
