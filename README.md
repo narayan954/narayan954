@@ -5,9 +5,9 @@
 -----------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
 <b>About      :</b>  Programmer, Web Developer and Open Source Enthusiast
-<b>Languages  :</b>  Python, C++, HTML, CSS , Javascript, SQL
-<b>Frameworks :</b>  React, Node, Express, Bootstrap, Mongoose and Django(familiar)
-<b>Interests  :</b>  Web-Development(Full Stack and Cyber Security.
+<b>Languages  :</b>  Python, C++, Java, Javascript, SQL
+<b>Frameworks :</b>  React, Node, Express, Mongoose, FastAPI and Django(familiar)
+<b>Interests  :</b>  Web-Development(Full Stack and Cyber Security)
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 -----------------------------------------------------------------------------
 
