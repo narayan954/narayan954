@@ -19,6 +19,9 @@
 
 <b>Additionals:</b>
 <a href="https://narayansoni.netlify.app/">Portfolio 1<a> . <a href="https://narayan-soni.web.app/">Portfolio 2<a> . <a href="https://narayan954.github.io">Github-Pages-Portfolio<a>
+
+<b>Miscellaneous:</b>
+Someday you are going to see all my public repos with beautiful READMEs. Trust me... 🤡
 </pre>
 <!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
