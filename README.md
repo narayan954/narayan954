@@ -4,10 +4,10 @@
 <pre>
 -----------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
-<b>About      :</b>  Engineer, Developer and Open Source Enthusiast
-<b>Languages  :</b>  Python, C++, Java, Javascript, SQL
-<b>Frameworks :</b>  React, Node, Express, Mongoose, FastAPI and Spring
-<b>Interests  :</b>  Web-Development and Cyber Security
+<b>About      :</b>  Software Engineer
+<b>Languages  :</b>  C#, Python, C++, Javascript, SQL, Java
+<b>Frameworks :</b>  ASP.NET core, React, Node, Express, Mongoose, FastAPI and Spring
+<b>Interests  :</b>  Software Development and Cyber Security
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 -----------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@
 <b>Featured Projects </b>
 <a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
 
-<b>Additionals:</b>
+<b>Additionals(outdated):</b>
 <a href="https://narayansoni.netlify.app/">Portfolio 1<a> . <a href="https://narayan-soni.web.app/">Portfolio 2<a> . <a href="https://narayan954.github.io">Github-Pages-Portfolio<a>
-
+<!-- Need to work on a portfolio -->
 <b>Miscellaneous:</b>
 Someday you are going to see all my public repos with beautiful READMEs. Trust me... 🤡
 </pre>
@@ -57,7 +57,7 @@ Someday you are going to see all my public repos with beautiful READMEs. Trust m
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<p align="center">Nothing much, just a snake eating up my contributions graph</p>
+<p align="center">Nothing much, just a snake eating up my contributions graph :P</p>
 
 </details>
 <!--
