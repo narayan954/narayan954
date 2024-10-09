@@ -4,17 +4,17 @@
 <pre>
 -----------------------------------------------------------------------------
 <b>Me         :</b>  <b>Narayan Soni</b>
-<b>About      :</b>  Software Engineer
-<b>Languages  :</b>  C#, Python, C++, Javascript, SQL, Java
-<b>Frameworks :</b>  ASP.NET core, React, Node, Express, Mongoose, FastAPI and Spring
-<b>Interests  :</b>  Software Development and Cyber Security
+<b>About      :</b>  Software Engineer / Full-Stack Developer
+<b>Languages  :</b>  C#, Python, Javascript, C++, Java
+<b>Frameworks :</b>  ASP.NET core, Vue, FastAPI, React, Node, Express, Entity, Mongoose and Spring
+<b>Interests  :</b>  Software Development, Cyber Security
 <b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 -----------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
 <a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> . <a href="https://linktr.ee/narayan_soni">Linktree</a> . <a href="mailto:narayansoniwork@gmail.com">Email</a>
 
-<b>Featured Projects </b>
+<b>Featured Projects</b>
 <a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
 
 <b>Additionals(outdated):</b>
@@ -57,7 +57,7 @@ Someday you are going to see all my public repos with beautiful READMEs. Trust m
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<p align="center">Nothing much, just a snake eating up my contributions graph :P</p>
+<p align="center">Nothing much, just a snake feeding on my contributions graph :P</p>
 
 </details>
 <!--
