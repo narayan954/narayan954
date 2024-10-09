@@ -7,15 +7,15 @@
 <b>About      :</b>  Software Engineer / Full-Stack Developer
 <b>Languages  :</b>  C#, Python, Javascript, C++, Java
 <b>Frameworks :</b>  ASP.NET core, Vue, FastAPI, React, Node, Express, Entity, Mongoose and Spring
-<b>Interests  :</b>  Software Development, Cyber Security
-<b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
+<b>Interests  :</b>  Software Development and Cyber Security.
+<b>Education  :</b>  <a href="http://www.niet.co.in/">Niet</a> <b> B.Tech (Computer Science and Engineering) (2024 passout)</b>
 -----------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
 <a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> . <a href="https://linktr.ee/narayan_soni">Linktree</a> . <a href="mailto:narayansoniwork@gmail.com">Email</a>
 
 <b>Featured Projects</b>
-<a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
+<a href="https://github.com/harshbh040701/Aerothon-6.0">Sky Tracker<a> . <a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
 
 <b>Additionals(outdated):</b>
 <a href="https://narayansoni.netlify.app/">Portfolio 1<a> . <a href="https://narayan-soni.web.app/">Portfolio 2<a> . <a href="https://narayan954.github.io">Github-Pages-Portfolio<a>
