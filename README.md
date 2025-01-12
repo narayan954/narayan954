@@ -18,12 +18,16 @@
 <a href="https://github.com/harshbh040701/Aerothon-6.0">Sky Tracker<a> . <a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
 
 <b>Miscellaneous:</b>
+Someday you are going to see all my public repos with beautiful READMEs. Trust me... 🤡 
+Meanwhile watch this 👇
+<details closed>
                 __....__
          .-~~/  \__/  \~~-.                                                      _______
         /_/``\__/Us\__/``\_\.--.                                                |FINISH |           
        /  \__/  \__/  \__/  \   o`.               Keep going                    |_______|
    `==/\__/__\__/__\__/__\__/\`'--'                                             |
       ~/__/__/^^^^^^^^\__\__\~ _________________________________________________|
+</details>
 </pre>
 <!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
