@@ -23,7 +23,7 @@ Meanwhile watch this 👇
 <details closed>
                 __....__
          .-~~/  \__/  \~~-.                                                      _______
-        /_/``\__/Us\__/``\_\.--.                                                |FINISH |           
+        /_/``\__/You\__/`\_\.--.                                                |FINISH |           
        /  \__/  \__/  \__/  \   o`.               Keep going                    |_______|
    `==/\__/__\__/__\__/__\__/\`'--'                                             |
       ~/__/__/^^^^^^^^\__\__\~ _________________________________________________|
@@ -63,7 +63,10 @@ Meanwhile watch this 👇
   <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<p align="center">Nothing much, just a snake feeding on my contributions graph :P</p>
+<p align="center">
+  Nothing much, just a <b><i>Snek</i></b> snacking on my contributions graph :P<br>
+  <i>Snek not snacking? My bad, haven't contributed here lately</i> :(
+</p>
 
 </details>
 <!--
