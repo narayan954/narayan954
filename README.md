@@ -12,7 +12,7 @@
 ---------------------------------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
-<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> . <a href="https://linktr.ee/narayan_soni">Linktree</a> . <a href="https://aspecta.ai/u/narayan954">Aspecta</a> . <a href="mailto:narayansoniwork@gmail.com">Email</a>
+<a href="https://linkedin.com/in/narayan-soni/">LinkedIn</a> . <a href="https://linktr.ee/narayan_soni">Linktree</a> . <a href="https://aspecta.ai/u/narayan954">Aspecta</a> . <a href="mailto:narayansoniwork@gmail.com">Email</a> . <a href="https://about.me/narayansoni">Portfolio</a>
 
 <b>Featured Projects</b>
 <a href="https://github.com/harshbh040701/Aerothon-6.0">Sky Tracker<a> . <a href="http://dr-on-demand.vercel.app/">Doctor On Demand<a> . <a href="https://react-admin-dashboard-live.netlify.app/">Admin Dashboard</a> . <a href="https://narayan954.github.io/dummygram/">DummyGram<a> . <a href="https://resume-builder-reactjs.web.app/">ResumeBuilder<a> 
